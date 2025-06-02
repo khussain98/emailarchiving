@@ -1,8 +1,5 @@
 # emailarchiving
-MS365 personal email archiving project
-
-Archive Users Emails to an On-Prem Location
-View stored emails locally
+Archive Users Emails to an On-Prem Location (MS365 personal email archiving project)
 
 Requirements:
 MS365 Shared Mailbox
